@@ -1,0 +1,19 @@
+.container{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    background-color:purple;
+    margin:8px;
+}
+.container ul{
+display:flex;
+flex-direction:row;
+list-style-type:none;
+}.container ul li{
+    margin:15px;
+font-size:19px;
+}
+.container ul li a{
+    text-decoration:none;
+    color:white;
+}
